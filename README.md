@@ -2,9 +2,9 @@
 
 ## Student Details
 
-Name: Sumit Sharma
-Roll Number: 25f3000568
-Email: 25f3000568@ds.study.iitm.ac.in
+Name: Navy Fatema
+Roll Number: 25f2008437
+Email: 25f2008437@ds.study.iitm.ac.in
 
 ---
 
